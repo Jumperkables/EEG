@@ -1,6 +1,10 @@
 # EEG
 I'm going to build and use an EEG machine for abstract and concrete things! Because why not! I'll be following [this guide](https://www.instructables.com/id/DIY-EEG-and-ECG-Circuit). Another [Arduino based one exists too](https://www.instructables.com/id/Mini-Arduino-Portable-EEG-Brain-Wave-Monitor-/)
 
+<img src="imgs/nodes.png"
+     alt="EEG Nodes"
+     style="float: left; margin-right: 10px;"/>
+
 ## Shopping list and price
 Mostly from Digikey and Amazon:
 * 1x Instrumentation Amplifier (AD620AN): [Digikey, $11.26](https://www.digikey.com/product-detail/en/AD620ANZ/AD620ANZ-ND/750967), [Amazon, £13.02](https://www.amazon.co.uk/INSTR-130DB-AD620ANZ-ANALOG-DEVICES/dp/B007CHIODY/ref=sr_1_1?dchild=1&keywords=AD620ANZ&qid=1599005216&sr=8-1)
@@ -12,7 +16,7 @@ Mostly from Digikey and Amazon:
     - 5x 220nF, tantalum
     - 1x 1uF, electrolytic
     - 2x 10uF, electrolytic
-* Resistor kit: [This one is recommended](https://www.amazon.com/Joe-Knows-Electronics-Value-Resistor/dp/B003UC4FSS/ref=sr_1_1?s=toys-and-games&ie=UTF8&qid=1340397296&sr=1-1)
+* Resistor kit: [This one is recommended (~$10)](https://www.amazon.com/Joe-Knows-Electronics-Value-Resistor/dp/B003UC4FSS/ref=sr_1_1?s=toys-and-games&ie=UTF8&qid=1340397296&sr=1-1)
     - 2x 12Ω
     - 1x 220Ω
     - 1x 560Ω
@@ -24,4 +28,4 @@ Mostly from Digikey and Amazon:
     - 2x 270kΩ
     - 1x 1MΩ
 * 1x 1kΩ Potentiometer: [Digikey, $1.02](https://www.digikey.com/product-detail/en/3362P-1-102LF/3362P-102LF-ND/1088411)
-*
+* 
