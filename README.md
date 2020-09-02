@@ -37,4 +37,4 @@ Mostly from Digikey and Amazon:
 * Electrode cap or bandana: (Free-£30)
 * Electric tape: £1
 
-**Total: **
+**Total: £48 + Costs for: Capacitors, Reistors, Wires and cap**
