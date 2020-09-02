@@ -3,7 +3,7 @@ I'm going to build and use an EEG machine for abstract and concrete things! Beca
 
 <img src="imgs/nodes.png"
      alt="EEG Nodes"
-     style="float: left; margin-right: 10px;"/>
+     style="float: center; margin-right: 10px;"/>
 
 ## Shopping list and price
 Mostly from Digikey and Amazon:
