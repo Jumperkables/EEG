@@ -31,3 +31,10 @@ Mostly from Digikey and Amazon:
 * 1x Breadboard: [Amazon, $6.99](https://www.amazon.com/microtivity-400-point-Experiment-Breadboard-Jumper/dp/B004RXKWDQ/ref=sr_1_3?ie=UTF8&qid=1340398203&sr=8-3&keywords=breadboard)
 * Wire kit: [This one is recommended, $15](https://www.amazon.com/Elenco-Piece-Pre-formed-Jumper-Wire/dp/B0002H7AIG/ref=sr_1_1?s=toys-and-games&ie=UTF8&qid=1340398467&sr=1-1&keywords=jumper+wire+set)
 * ~~3.5mm audio jack~~
+* 2x 9v battery, ~£4
+* Electrode gel [Amazon, ~$5](https://www.amazon.com/Parker-Spectra-Electrode-Gram-Tube/dp/B0002CA8RQ/ref=sr_1_1?ie=UTF8&qid=1340913387&sr=8-1&keywords=spectra+360+electrode+gel)
+* Electrode cups: [Ambu neuroline recommended, ~$16 for 10](https://www.cnsac-medshop.com/product/ambu-neuroline-cup-electrode-100-cm-lead-wire-10-pcs-pack/)
+* Electrode cap or bandana: (Free-£30)
+* Electric tape: £1
+
+**Total: **
