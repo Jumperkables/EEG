@@ -28,4 +28,6 @@ Mostly from Digikey and Amazon:
     - 2x 270kΩ
     - 1x 1MΩ
 * 1x 1kΩ Potentiometer: [Digikey, $1.02](https://www.digikey.com/product-detail/en/3362P-1-102LF/3362P-102LF-ND/1088411)
-* 
+* 1x Breadboard: [Amazon, $6.99](https://www.amazon.com/microtivity-400-point-Experiment-Breadboard-Jumper/dp/B004RXKWDQ/ref=sr_1_3?ie=UTF8&qid=1340398203&sr=8-3&keywords=breadboard)
+* Wire kit: [This one is recommended, $15](https://www.amazon.com/Elenco-Piece-Pre-formed-Jumper-Wire/dp/B0002H7AIG/ref=sr_1_1?s=toys-and-games&ie=UTF8&qid=1340398467&sr=1-1&keywords=jumper+wire+set)
+* ~~3.5mm audio jack~~
