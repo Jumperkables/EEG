@@ -8,6 +8,7 @@ Firstly, what options we have already in the department to try before the purcha
 After Nik graduated (yay) Toby kind of kept her headset. It's a 20 channel dry wireless headset, (The CGX 20, theres no link to it anymore). Will took a picture of it for me cos he's a sweetheart.
 ![](imgs/dept_cgx20.png)<br>
 A newer 20 channel versions is here: [CGX Quick-20r](https://www.cgxsystems.com/quick-20r). I can't easily find prices for this headset or these models, you contact and get quoted for them, but I can infer they are very expensive indeed.
+I have permission from Toby to play around with the headset as soon as the dept's sign in/out systems are up and running.
 
 ### Durhams EEG Lab
 Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets. Psychology currently use [Emotiv headsets](https://www.emotiv.com/) (Sarah can't remember the specific make). They use eye tracking alongside built into the headset, and apart from the cost, Sarah says those are good headsets. We should try these out first to see if you like them, and try the one in the department to compare.
@@ -22,11 +23,13 @@ Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets
 - Sarah => the points above
 - [Daniel T Smith, Durham Psychology Dept](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=2836) (We can ask for his input)
 - [A Systemic Review of Available Low-Cost EEG Headsets (Used for Drowsiness Detection)](https://www.frontiersin.org/articles/10.3389/fninf.2020.553352/full). Review:
-    * Neurosky MindWave (the lowest performing)
-    * OpenBCI (second lowest)
-    * InteraXon Muse 
-    * Emotiv Epoc
-    * Emotiv Insight
+| Headset | Channels | Price | Pros | Cons |
+| ------- | :------: | :---: | :--: | :--: |
+| Neurosky MindWave | ? | £? | pro | Worst in study |
+| OpenBCI | ? | £? | pro | 2nd Worst in study |
+| InteraXon Muse | ? | £? | pro | con |
+| Emotiv Epoc | ? | £? | pro | con |
+| Emotiv Insight | ? | £? | pro | con |
 
 ## Emotiv
 
