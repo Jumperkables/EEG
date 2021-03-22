@@ -31,6 +31,11 @@ Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets
 | Emotiv Epoc       | ?         | £?    | pro   | con       |
 | Emotiv Insight    | ?         | £?    | pro   | con       |
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 ## Emotiv
 
 
