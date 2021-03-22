@@ -29,9 +29,9 @@ Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets
 | Neurosky MindWave | ? / Dry / Wireless     | £Very low | ??    | Single band, Worst[0]      | [here](https://store.neurosky.com/pages/mindwave) |
 | InteraXon Muse    | 4 / Dry / Wireless     | £300            | ?  | ? | [here](https://choosemuse.com/shop/) |
 | OpenBCI           | 16 / Dry / Wireless    | £1100-1900 +20% | Great libraries, flexible build   | 2nd Worst[0]  | [here](https://shop.openbci.com/products/ultracortex-mark-iv?variant=23280742275) |
-| Emotiv Insight    | 5+2 / Dry / ??         | $300 +?%        | ?  | ? | [here](https://www.emotiv.com/comparison/) |
-| Emotiv Epoc       | 14+2 / Dry / Wireless  | $849 +?%        | 9-axis head motion sensing | ? | [here](https://www.emotiv.com/comparison/) |
-| Emotiv Epoc Flex  | 32 / Both / Wireless  | $2049 +?%        | 9-axis head motion sensing | ? | [here](https://www.emotiv.com/comparison/) |
+| Emotiv Insight    | 5+2 / Dry / ??         | $300 +?%        | ?  | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/) |
+| Emotiv Epoc       | 14+2 / Dry / Wireless  | $849 +?%        | 9-axis head motion sensing | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/) |
+| Emotiv Epoc Flex  | 32 / Both / Wireless  | $2049 +?%        |  | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/) CHANGEME |
 
 TODO:
 - ADD SAMPLING RATE AND DYNAMIC RANGES OF INPUT VOLTAGES
