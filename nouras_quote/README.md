@@ -2,7 +2,7 @@
 Compilation of quotes/recommendations for EEG headsets I've found:
 
 ## Reviews
-A paper published in Neuroinform [0] [A Systemic Review of Available Low-Cost EEG Headsets (Used for Drowsiness Detection)](https://www.frontiersin.org/articles/10.3389/fninf.2020.553352/full)
+[0] - A paper published in Neuroinform [A Systemic Review of Available Low-Cost EEG Headsets (Used for Drowsiness Detection)](https://www.frontiersin.org/articles/10.3389/fninf.2020.553352/full)
 
 
 
