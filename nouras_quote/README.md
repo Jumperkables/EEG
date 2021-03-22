@@ -26,9 +26,9 @@ Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets
 
 | Headset           | Channels/Type/Wireless    | Price | Pros  | Cons          | Link     | 
 | ---               |:---:                      |:---:  | ---:  | ---:          | --- |
-| Neurosky MindWave | ?                         | £?    | pro   | Worst[0]      | [here](google.com) |
+| Neurosky MindWave | ?                         | £?    | pro   | Worst[0]      | [here]() |
 | OpenBCI           | ?                         | £?    | pro   | 2nd Worst[0]  | [here](google.com) |
-| InteraXon Muse    | 4 / Dry / Wireless        | £?    | pro   | con           | [here](google.com) |
+| InteraXon Muse    | 4 / Dry / Wireless        | £300  | pro   | con           | [here](https://choosemuse.com/shop/) |
 | Emotiv Epoc       | ?                         | £?    | pro   | con           | [here](google.com) |
 | Emotiv Insight    | ?                         | £?    | pro   | con           | [here](google.com) |
 
