@@ -33,6 +33,7 @@ Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets
 | Emotiv Epoc       | 14+2 / Dry / Wireless  | $849 +?%        | 9-axis head motion sensing | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/) |
 | Emotiv Epoc Flex  | 32 / Both / Wireless  | $2049 +?%        |  | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/) CHANGEME |
 
+[A more comprehensive table with limited products can be found here](https://www.mindtecstore.com/EEG-Headset-comparison-table)
 TODO:
 - ADD SAMPLING RATE AND DYNAMIC RANGES OF INPUT VOLTAGES
 - ADD WHAT LOBES/BRAIN ACTIVITY THEY COVER
