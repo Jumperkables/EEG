@@ -24,7 +24,7 @@ Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets
 - [Daniel T Smith, Durham Psychology Dept](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=2836) (We can ask for his input)
 - [A Systemic Review of Available Low-Cost EEG Headsets (Used for Drowsiness Detection)](https://www.frontiersin.org/articles/10.3389/fninf.2020.553352/full). Review:
 | Headset           | Channels  | Price | Pros  | Cons      |
-| ----------------- |:---------:|:-----:| -----:| ---------:|
+| ---               |:---:      |:---:  | ---:  | ---:      |
 | Neurosky MindWave | ?         | £?    | pro   | Worst     |
 | OpenBCI           | ?         | £?    | pro   | 2nd Worst |
 | InteraXon Muse    | ?         | £?    | pro   | con       |
