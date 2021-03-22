@@ -20,14 +20,16 @@ Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets
 
 ## Reviews
 - Sarah => the points above
-- [Daniel T Smith, Durham Psychology Dept](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=2836) (To ask for his input)
+- [Daniel T Smith, Durham Psychology Dept](https://www.dur.ac.uk/research/directory/staff/?mode=staff&id=2836) (We can ask for his input)
 - [A Systemic Review of Available Low-Cost EEG Headsets (Used for Drowsiness Detection)](https://www.frontiersin.org/articles/10.3389/fninf.2020.553352/full). Review:
-    * d
-    * ww
+    * Neurosky MindWave (the lowest performing)
+    * OpenBCI (second lowest)
+    * InteraXon Muse 
+    * Emotiv Epoc
+    * Emotiv Insight
 
 ## Emotiv
 
 
 ## Custom Built
 See the upper-directory (and consult with me ofc) about how to make an EEG headset with a chosen number of channels yourself on the cheap.
-
