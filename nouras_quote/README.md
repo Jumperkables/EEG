@@ -11,7 +11,7 @@ A newer 20 channel versions is here: [CGX Quick-20r](https://www.cgxsystems.com/
 I have permission from Toby to play around with the headset as soon as the dept's sign in/out systems are up and running.
 
 ### Durhams EEG Lab
-<div style="text-align: right">Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets. Psychology currently use [Emotiv headsets](https://www.emotiv.com/) (Sarah can't remember the specific make). They use eye tracking alongside built into the headset, and apart from the cost, Sarah says those are good headsets. We should try these out first to see if you like them, and try the one in the department to compare.</div>
+Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets. Psychology currently use [Emotiv headsets](https://www.emotiv.com/) (Sarah can't remember the specific make). They use eye tracking alongside built into the headset, and apart from the cost, Sarah says those are good headsets. We should try these out first to see if you like them, and try the one in the department to compare.
 
 ## General Points
 - You've mentioned that having a headset that CAN be used with gel is a priority for better signal coherence 
