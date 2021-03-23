@@ -47,12 +47,3 @@ See the upper-directory (and consult with me ofc) about how to make an EEG heads
 - [0]:- [A Systemic Review of Available Low-Cost EEG Headsets (Used for Drowsiness Detection)](https://www.frontiersin.org/articles/10.3389/fninf.2020.553352/full).
 - (RANT) I cannot believe the markup on some of these fucking products. I understand wanting to make a profit, and having a customer base of researchers with this budget in mind. But [$4000 for a 20 channel amplifier with a bit of bluetooth, a connector and a battery](http://www.physio-tech.co.jp/products/cognionics/pdf/cognionics2019.pdf).
 
-
-[//]: # (| Headset           | Channels/Type/Wireless | Price     | Pros  | Cons          | Link     |]
-| ---               |:---:                   |:---:      | ---:  | ---:          | ---       |
-| Neurosky MindWave | ? / Dry / Wireless     | £Very low | ??    | Single band, Worst[0]      | [here]https://store.neurosky.com/pages/mindwave |
-| InteraXon Muse    | 4 / Dry / Wireless     | £300            | ?  | ? | [here](https://choosemuse.com/shop/ |
-| OpenBCI           | 16 / Dry / Wireless    | £1100-1900 +20% | Great libraries, flexible build   | 2nd Worst[0]  | [here](https://shop.openbci.com/products/ultracortex-mark-iv?variant=23280742275 |
-| Emotiv Insight    | 5+2 / Dry / ??         | $300 +?%        | ?  | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/ |
-| Emotiv Epoc       | 14+2 / Dry / Wireless  | $849 +?%        | 9-axis head motion sensing | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/ |
-| Emotiv Epoc Flex  | 32 / Both / Wireless  | $2049 +?%        |  | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/ CHANGEME |}
