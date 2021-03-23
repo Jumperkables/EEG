@@ -20,7 +20,11 @@ Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets
 - Software Licsensing is expensive.
 
 ### OpenBCI
-Channels 16 / Dry / Wireless    | £1100-1900 +20% | Great libraries, flexible build   | 2nd Worst[0]  | [here](https://shop.openbci.com/products/ultracortex-mark-iv?variant=23280742275) |
+#### Electrode Cap Kit
+<img src="imgs/openbci_electrode_cap.png" width="250"><br>
+**Channels:** 21 
+**Electrodes:** Ag/AgCl coated ($400)/sintered ($700)
+**:** Dry / Wireless    | £1100-1900 +20% | Great libraries, flexible build   | 2nd Worst[0]  | [here](https://shop.openbci.com/products/ultracortex-mark-iv?variant=23280742275) |
 | Emotiv Epoc       | 14+2 / Dry / Wireless  | $849 +?%        | 9-axis head motion sensing | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/) |
 | Emotiv Epoc Flex  | 32 / Both / Wireless  | $2049 +?%        |  | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/) CHANGEME |
 
