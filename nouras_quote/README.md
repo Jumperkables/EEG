@@ -11,16 +11,16 @@ A newer 20 channel versions is here: [CGX Quick-20r](https://www.cgxsystems.com/
 I have permission from Toby to play around with the headset as soon as the dept's sign in/out systems are up and running.
 
 ### Durhams EEG Lab
-Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets. Psychology currently use [Emotiv headsets](https://www.emotiv.com/) (Sarah can't remember the specific make). They use eye tracking alongside built into the headset, and apart from the cost, Sarah says those are good headsets. We should try these out first to see if you like them, and try the one in the department to compare.
+<div style="text-align: right">Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets. Psychology currently use [Emotiv headsets](https://www.emotiv.com/) (Sarah can't remember the specific make). They use eye tracking alongside built into the headset, and apart from the cost, Sarah says those are good headsets. We should try these out first to see if you like them, and try the one in the department to compare.</div>
 
 ## General Points
 - You've mentioned that having a headset that CAN be used with gel is a priority for better signal coherence 
-- To the best of my knowledge, **Silver/Silver chloride (Ag-AgCl) electrodes are considered of reasonably highest quality**. [Source 1=OpenBCI](https://openbci.com/forum/index.php?p=/discussion/2173/the-advantage-of-sintered-ag-agcl-electrode), [Source 2=Some other website](https://www.biomedelectrodes.com/) , [Source 3=Brain Computers very high quality](https://www.brainproducts.com/products_by_type.php?tid=3)
+- To the best of my knowledge, **Silver/Silver chloride (Ag-AgCl) electrodes are considered of reasonably highest quality**. [Source 1=OpenBCI](https://openbci.com/forum/index.php?p=/discussion/2173/the-advantage-of-sintered-ag-agcl-electrode), [Source 2=Some other website](https://www.biomedelectrodes.com/), [Source 3=Brain Computers very high quality](https://www.brainproducts.com/products_by_type.php?tid=3)
 - Sarah further mentioned that **some journals only accept results from certain headsets** (sounds .... interesting). Emotiv ones and some other brands are currently trusted.
 - Software Licsensing is expensive.
 
 ### OpenBCI
-| 16 / Dry / Wireless    | £1100-1900 +20% | Great libraries, flexible build   | 2nd Worst[0]  | [here](https://shop.openbci.com/products/ultracortex-mark-iv?variant=23280742275) |
+Channels 16 / Dry / Wireless    | £1100-1900 +20% | Great libraries, flexible build   | 2nd Worst[0]  | [here](https://shop.openbci.com/products/ultracortex-mark-iv?variant=23280742275) |
 | Emotiv Epoc       | 14+2 / Dry / Wireless  | $849 +?%        | 9-axis head motion sensing | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/) |
 | Emotiv Epoc Flex  | 32 / Both / Wireless  | $2049 +?%        |  | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/) CHANGEME |
 
