@@ -37,8 +37,12 @@ Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets
 TODO:
 - ADD SAMPLING RATE AND DYNAMIC RANGES OF INPUT VOLTAGES
 - ADD WHAT LOBES/BRAIN ACTIVITY THEY COVER
-## Emotiv
 
+## Current Thoughts
+- OpenBCI seems the most flexible by far
+- [Paper supporting OpenBCI](https://arxiv.org/pdf/1606.02438.pdf)
+- Dont go emotiv, theyre protectionist bastards
+- Brain Products (Germany) seem the most high quality
 
 ## Custom Built
 See the upper-directory (and consult with me ofc) about how to make an EEG headset with a chosen number of channels yourself on the cheap.
