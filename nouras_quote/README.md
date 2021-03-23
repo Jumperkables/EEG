@@ -6,7 +6,7 @@ Firstly, what options we have already in the department to try before the purcha
 
 ### We Have A Wireless EEG in the Dept
 After Nik graduated (yay) Toby kind of kept her headset. It's a 20 channel dry wireless headset, (The CGX 20, theres no link to it anymore). Will took a picture of it for me cos he's a sweetheart.<br>
-<img src="imgs/dept_cgx20.png" width="250" class="center"><br>
+<img src="imgs/dept_cgx20.png" width="250"><br>
 A newer 20 channel versions is here: [CGX Quick-20r](https://www.cgxsystems.com/quick-20r). I can't easily find prices for this headset or these models, you contact and get quoted for them, but I can infer they are very expensive indeed.
 I have permission from Toby to play around with the headset as soon as the dept's sign in/out systems are up and running.
 
