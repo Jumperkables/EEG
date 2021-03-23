@@ -37,8 +37,22 @@ Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets
 TODO:
 - ADD SAMPLING RATE AND DYNAMIC RANGES OF INPUT VOLTAGES
 - ADD WHAT LOBES/BRAIN ACTIVITY THEY COVER
-## Emotiv
 
+## Current Thoughts
+- OpenBCI seems the most flexible by far
+- [Paper supporting OpenBCI](https://arxiv.org/pdf/1606.02438.pdf)
+- Dont go emotiv, theyre protectionist bastards
+- Brain Products (Germany) seem the most high quality
 
 ## Custom Built
 See the upper-directory (and consult with me ofc) about how to make an EEG headset with a chosen number of channels yourself on the cheap.
+
+
+[//]: # (| Headset           | Channels/Type/Wireless | Price     | Pros  | Cons          | Link     |]
+| ---               |:---:                   |:---:      | ---:  | ---:          | ---       |
+| Neurosky MindWave | ? / Dry / Wireless     | £Very low | ??    | Single band, Worst[0]      | [here]https://store.neurosky.com/pages/mindwave |
+| InteraXon Muse    | 4 / Dry / Wireless     | £300            | ?  | ? | [here](https://choosemuse.com/shop/ |
+| OpenBCI           | 16 / Dry / Wireless    | £1100-1900 +20% | Great libraries, flexible build   | 2nd Worst[0]  | [here](https://shop.openbci.com/products/ultracortex-mark-iv?variant=23280742275 |
+| Emotiv Insight    | 5+2 / Dry / ??         | $300 +?%        | ?  | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/ |
+| Emotiv Epoc       | 14+2 / Dry / Wireless  | $849 +?%        | 9-axis head motion sensing | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/ |
+| Emotiv Epoc Flex  | 32 / Both / Wireless  | $2049 +?%        |  | Support difficult without license [0] | [here](https://www.emotiv.com/comparison/ CHANGEME |}
