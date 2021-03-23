@@ -15,7 +15,7 @@ Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets
 
 ## General Points
 - You've mentioned that having a headset that CAN be used with gel is a priority for better signal coherence 
-- To the best of my knowledge, **Silver/Silver chloride electrodes are considered of reasonably highest quality**. [Source 1=OpenBCI](https://openbci.com/forum/index.php?p=/discussion/2173/the-advantage-of-sintered-ag-agcl-electrode), [Source 2=Some other website](https://www.biomedelectrodes.com/) , [Source 3=Brain Computers very high quality](https://www.brainproducts.com/products_by_type.php?tid=3)
+- To the best of my knowledge, **Silver/Silver chloride (Ag-AgCl) electrodes are considered of reasonably highest quality**. [Source 1=OpenBCI](https://openbci.com/forum/index.php?p=/discussion/2173/the-advantage-of-sintered-ag-agcl-electrode), [Source 2=Some other website](https://www.biomedelectrodes.com/) , [Source 3=Brain Computers very high quality](https://www.brainproducts.com/products_by_type.php?tid=3)
 - Sarah further mentioned that **some journals only accept results from certain headsets** (sounds .... interesting). Emotiv ones and some other brands are currently trusted.
 - Software Licsensing is expensive.
 
