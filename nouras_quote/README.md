@@ -34,18 +34,15 @@ Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets
 -[Sensing Board](https://shop.openbci.com/collections/frontpage/products/cyton-biosensing-board-8-channel?variant=38958638542): 1x$500 each (8 channels @ 250Hz) (takes cap output and outputs to bluetooth)
 -[Electrode Adapter](https://shop.openbci.com/collections/frontpage/products/touch-proof-electrode-cable-adapter?variant=31007211715): 1x$25 (one per board)
 -[Electrode Gel](https://shop.openbci.com/products/electrodegel?variant=28056992776264): $20 (can be replaced)
-+20-25% import tax
++20-25% import tax (to be clarified in the e-amil)
 8 channels at a time = **$1562**
 16 channels at a time = **$2160**
 
-## Current Thoughts
+## Extra Thoughts
 - OpenBCI seems the most flexible by far
 - [Paper supporting OpenBCI](https://arxiv.org/pdf/1606.02438.pdf)
 - Dont go emotiv, theyre protectionist bastards
 - Brain Products (Germany) seem the most high quality
-
-## Custom Built
-See the upper-directory (and consult with me ofc) about how to make an EEG headset with a chosen number of channels yourself on the cheap.
 
 ## Resources
 - Sarah
