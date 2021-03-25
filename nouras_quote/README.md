@@ -27,10 +27,16 @@ Sarah is sending me a link to where we can sign up to use the Uni's EEG headsets
 **Pros:** <br>
 **Cons:** You MUST clean thoroughly after use for longevity, otherwise 25-50 runs before the corrosion gets bad<br>
 <img src="imgs/openbci_electrode_cap.png" width="250"><br>
+**Board:** [8 channels](https://shop.openbci.com/collections/frontpage/products/cyton-biosensing-board-8-channel?variant=38958638542)@250Hz ($499)/ [16 channels](https://shop.openbci.com/collections/frontpage/products/cyton-daisy-biosensing-boards-16-channel?variant=38959256526)@125Hz ($949). [This paper](https://drive.google.com/file/d/1Ulm-x1U6otczwCb34WJetjdGoA6BIoef/view) shows that the boards are comparable with those 25x the price.<br>
 
-TODO:
-- ADD SAMPLING RATE AND DYNAMIC RANGES OF INPUT VOLTAGES
-- ADD WHAT LOBES/BRAIN ACTIVITY THEY COVER
+***Total cost:***
+-[Cap](https://shop.openbci.com/products/openbci-eeg-electrocap?variant=16456881766472): 1x$700 (Sintered Ag-AgCl electrodes)
+-[Sensing Board](https://shop.openbci.com/collections/frontpage/products/cyton-biosensing-board-8-channel?variant=38958638542): 1x$500 each (8 channels @ 250Hz) (takes cap output and outputs to bluetooth)
+-[Electrode Adapter](https://shop.openbci.com/collections/frontpage/products/touch-proof-electrode-cable-adapter?variant=31007211715): 1x$25 (one per board)
+-[Electrode Gel](https://shop.openbci.com/products/electrodegel?variant=28056992776264): $20 (can be replaced)
++20-25% import tax
+8 channels at a time = **$1562**
+16 channels at a time = **$2160**
 
 ## Current Thoughts
 - OpenBCI seems the most flexible by far
